@@ -1,0 +1,2 @@
+Repartition du travail 
+1-Crée notre entity user qui auras les champs suivants(Prenom-Nom-Telephone-Adresse-Statut-Username-Password-Roles-Image-Prest-Compt)
